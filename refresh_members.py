@@ -11,7 +11,7 @@ def merge_members(rows,current,label,day):
     previous={str(m['id']):m for m in current};result=[]
     for row in rows:
         if row['politicalGroupLabel']!=label:continue
-        uid=str(row['persId']);m=copy.deepcopy(previous.get(uid,{'role':'','headOfDelegation':False,'coordinators':[],'isBureau':False,'strasbourg':'','brussels':''}))
+        uid=str(row['persId']);m=copy.deepcopy(previous.get(uid,{'role':'','gender':'','headOfDelegation':False,'coordinators':[],'isBureau':False,'strasbourg':'','brussels':''}))
         m.update(id=uid,name=row['fullName'],country=row['countryLabel'],party=row['nationalPoliticalGroupLabel'],lastName=family_name(row['fullName']),membershipCheckedAt=day)
         result.append(m)
     return result

@@ -14,7 +14,10 @@
     "coordinators": [],
     "isBureau": true,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/130881?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "197691",
@@ -31,7 +34,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/197691?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "124973",
@@ -48,7 +54,10 @@
     "coordinators": [],
     "isBureau": true,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/124973?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "131580",
@@ -65,7 +74,10 @@
     "coordinators": [],
     "isBureau": true,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/131580?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "261797",
@@ -82,7 +94,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/261797?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "277178",
@@ -99,7 +114,10 @@
     "coordinators": [],
     "isBureau": true,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/277178?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256998",
@@ -116,7 +134,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256998?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256881",
@@ -133,7 +154,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256881?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "101039",
@@ -152,7 +176,10 @@
     "roleSource": "https://www.patriotsforeurope.eu/",
     "roleCheckedAt": "2026-11-06",
     "headSource": "https://www.patriotsforeurope.eu/",
-    "headCheckedAt": "2026-11-06"
+    "headCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/101039?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "257024",
@@ -169,7 +196,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/257024?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256878",
@@ -186,7 +216,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256878?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "257064",
@@ -205,7 +238,10 @@
     "roleSource": "https://www.patriotsforeurope.eu/",
     "roleCheckedAt": "2026-11-06",
     "headSource": "https://www.patriotsforeurope.eu/",
-    "headCheckedAt": "2026-11-06"
+    "headCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/257064?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "257072",
@@ -222,7 +258,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/257072?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "197829",
@@ -241,7 +280,10 @@
     "roleSource": "https://www.patriotsforeurope.eu/",
     "roleCheckedAt": "2026-11-06",
     "headSource": "https://www.patriotsforeurope.eu/",
-    "headCheckedAt": "2026-11-06"
+    "headCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/197829?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "220840",
@@ -258,7 +300,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/220840?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "197786",
@@ -275,7 +320,10 @@
     "coordinators": [],
     "isBureau": true,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/197786?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "257131",
@@ -292,7 +340,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/257131?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "236050",
@@ -309,7 +360,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/236050?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256886",
@@ -326,7 +380,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256886?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "96826",
@@ -345,7 +402,10 @@
     "roleSource": "https://www.patriotsforeurope.eu/",
     "roleCheckedAt": "2026-11-06",
     "headSource": "https://www.patriotsforeurope.eu/",
-    "headCheckedAt": "2026-11-06"
+    "headCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/96826?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256981",
@@ -362,7 +422,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256981?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256834",
@@ -379,7 +442,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256834?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256874",
@@ -396,7 +462,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256874?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "260724",
@@ -413,7 +482,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/260724?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256853",
@@ -430,7 +502,10 @@
     "coordinators": [],
     "isBureau": true,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256853?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "192254",
@@ -449,7 +524,10 @@
     "roleSource": "https://www.patriotsforeurope.eu/",
     "roleCheckedAt": "2026-11-06",
     "headSource": "https://www.patriotsforeurope.eu/",
-    "headCheckedAt": "2026-11-06"
+    "headCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/192254?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256857",
@@ -466,7 +544,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256857?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256876",
@@ -483,7 +564,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256876?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256896",
@@ -500,7 +584,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256896?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "28150",
@@ -517,7 +604,10 @@
     "coordinators": [],
     "isBureau": true,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/28150?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "197628",
@@ -536,7 +626,10 @@
     "roleSource": "https://www.patriotsforeurope.eu/",
     "roleCheckedAt": "2026-11-06",
     "headSource": "https://www.patriotsforeurope.eu/",
-    "headCheckedAt": "2026-11-06"
+    "headCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/197628?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "125052",
@@ -553,7 +646,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/125052?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "94649",
@@ -577,7 +673,10 @@
     ],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/94649?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "96830",
@@ -594,7 +693,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/96830?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "23816",
@@ -611,7 +713,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/23816?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "198176",
@@ -628,7 +733,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/198176?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256842",
@@ -645,7 +753,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256842?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "124715",
@@ -662,7 +773,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/124715?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "189065",
@@ -679,7 +793,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/189065?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "197627",
@@ -696,7 +813,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/197627?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "197528",
@@ -715,7 +835,10 @@
     "roleSource": "https://www.patriotsforeurope.eu/",
     "roleCheckedAt": "2026-11-06",
     "headSource": "https://www.patriotsforeurope.eu/",
-    "headCheckedAt": "2026-11-06"
+    "headCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/197528?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "270261",
@@ -732,7 +855,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/270261?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "23699",
@@ -749,7 +875,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/23699?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256909",
@@ -768,7 +897,10 @@
     "roleSource": "https://www.patriotsforeurope.eu/",
     "roleCheckedAt": "2026-11-06",
     "headSource": "https://www.patriotsforeurope.eu/",
-    "headCheckedAt": "2026-11-06"
+    "headCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256909?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256996",
@@ -785,7 +917,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256996?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "261038",
@@ -802,7 +937,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/261038?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256860",
@@ -819,7 +957,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256860?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256954",
@@ -838,7 +979,10 @@
     "roleSource": "https://www.patriotsforeurope.eu/",
     "roleCheckedAt": "2026-11-06",
     "headSource": "https://www.patriotsforeurope.eu/",
-    "headCheckedAt": "2026-11-06"
+    "headCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256954?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256872",
@@ -855,7 +999,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256872?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256895",
@@ -872,7 +1019,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256895?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "197623",
@@ -889,7 +1039,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/197623?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "257029",
@@ -906,7 +1059,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/257029?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "38511",
@@ -923,7 +1079,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/38511?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "257054",
@@ -940,7 +1099,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/257054?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256843",
@@ -957,7 +1119,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256843?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256883",
@@ -974,7 +1139,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256883?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "197687",
@@ -991,7 +1159,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/197687?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "280663",
@@ -1008,7 +1179,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/280663?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "36392",
@@ -1025,7 +1199,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/36392?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "126699",
@@ -1042,7 +1219,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/126699?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256877",
@@ -1059,7 +1239,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256877?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256893",
@@ -1083,7 +1266,10 @@
     ],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256893?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "204414",
@@ -1100,7 +1286,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/204414?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256844",
@@ -1117,7 +1306,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256844?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256882",
@@ -1134,7 +1326,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256882?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "197690",
@@ -1151,7 +1346,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/197690?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "88552",
@@ -1168,7 +1366,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/88552?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "197578",
@@ -1192,7 +1393,10 @@
     ],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/197578?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "213330",
@@ -1209,7 +1413,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/213330?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "197825",
@@ -1226,7 +1433,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/197825?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "272024",
@@ -1243,7 +1453,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/272024?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "220897",
@@ -1260,7 +1473,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/220897?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "257050",
@@ -1286,7 +1502,10 @@
     "roleSource": "https://www.patriotsforeurope.eu/",
     "roleCheckedAt": "2026-11-06",
     "headSource": "https://www.patriotsforeurope.eu/",
-    "headCheckedAt": "2026-11-06"
+    "headCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/257050?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "197831",
@@ -1303,7 +1522,10 @@
     "coordinators": [],
     "isBureau": true,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/197831?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "200345",
@@ -1320,7 +1542,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/200345?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256888",
@@ -1337,7 +1562,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256888?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "197580",
@@ -1354,7 +1582,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/197580?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256875",
@@ -1371,7 +1602,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256875?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "185771",
@@ -1390,7 +1624,10 @@
     "roleSource": "https://www.patriotsforeurope.eu/",
     "roleCheckedAt": "2026-11-06",
     "headSource": "https://www.patriotsforeurope.eu/",
-    "headCheckedAt": "2026-11-06"
+    "headCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/185771?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "5736",
@@ -1407,7 +1644,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/5736?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "256859",
@@ -1424,7 +1664,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/256859?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "125001",
@@ -1443,7 +1686,10 @@
     "roleSource": "https://www.patriotsforeurope.eu/",
     "roleCheckedAt": "2026-11-06",
     "headSource": "https://www.patriotsforeurope.eu/",
-    "headCheckedAt": "2026-11-06"
+    "headCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/125001?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "261796",
@@ -1460,7 +1706,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/261796?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "257069",
@@ -1477,7 +1726,10 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "FEMALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/257069?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   },
   {
     "id": "103246",
@@ -1494,6 +1746,9 @@
     "coordinators": [],
     "isBureau": false,
     "roleSource": "https://www.patriotsforeurope.eu/",
-    "roleCheckedAt": "2026-11-06"
+    "roleCheckedAt": "2026-11-06",
+    "gender": "MALE",
+    "genderSource": "https://data.europarl.europa.eu/api/v2/meps/103246?format=application%2Fld%2Bjson",
+    "genderCheckedAt": "2026-11-06"
   }
 ]

@@ -48,4 +48,10 @@ La première commande affiche les entrées et sorties sans modifier le fichier. 
 
 Liste : Parlement européen. Fonctions : pages des groupes et documents du Parlement, avec source et date dans les fiches. Les places en hémicycle ne sont pas renseignées.
 
-Entraînement : auto-évaluation sur les députés sélectionnés par les filtres. Les résultats restent en mémoire dans l’onglet et ne sont pas enregistrés. La préférence d’affichage compact est conservée dans le navigateur.
+Entraînement : quiz à 3 ou 4 noms. Les photos suivent les filtres ; les propositions aléatoires proviennent de tout le groupe et ont le même sexe renseigné dans les données du Parlement. Le score est calculé automatiquement, sans possibilité de répondre deux fois à une question. Les erreurs peuvent être rejouées. Une fiche sans sexe renseigné est exclue du quiz. Les résultats restent dans l’onglet et ne sont pas enregistrés. La préférence d’affichage compact est conservée dans le navigateur.
+
+## Données du quiz
+
+`gender` contient `MALE`, `FEMALE` ou une chaîne vide, selon `hasGender` dans la fiche officielle de l’API Open Data du Parlement. `genderSource` conserve le lien de cette fiche. Ne pas déduire cette valeur d’un prénom ou d’une photo. Un groupe d’au moins trois noms de même sexe est nécessaire au quiz ; les filtres portent sur les photos interrogées, pas sur les propositions.
+
+Les libellés « Coordinateur des votes » et « Coordinateur adjoint des votes » désignent les fonctions de chief whip et deputy whip. Ils sont distincts des coordinateurs de commission.

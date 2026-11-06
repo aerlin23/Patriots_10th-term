@@ -55,3 +55,10 @@ Entraînement : quiz à 3 ou 4 noms. Les photos suivent les filtres ; les propos
 `gender` contient `MALE`, `FEMALE` ou une chaîne vide, selon `hasGender` dans la fiche officielle de l’API Open Data du Parlement. `genderSource` conserve le lien de cette fiche. Ne pas déduire cette valeur d’un prénom ou d’une photo. Un groupe d’au moins trois noms de même sexe est nécessaire au quiz ; les filtres portent sur les photos interrogées, pas sur les propositions.
 
 Les libellés « Coordinateur des votes » et « Coordinateur adjoint des votes » désignent les fonctions de chief whip et deputy whip. Ils sont distincts des coordinateurs de commission.
+
+
+### Filtres et tri
+
+Filtre masculin/féminin, lien explicite vers chaque fiche du Parlement. Tri par défaut par responsabilités : présidence, vice-présidences, autres fonctions, chefs de délégation et coordinateurs ; ordre alphabétique par nom de famille au sein de chaque catégorie. Option de tri alphabétique global conservée.
+
+Annuaire de tous les députés : https://aerlin23.github.io/Patriots_10th-term/parlement/

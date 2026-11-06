@@ -61,4 +61,8 @@ Les libellés « Coordinateur des votes » et « Coordinateur adjoint des votes 
 
 Filtre masculin/féminin, lien explicite vers chaque fiche du Parlement. Tri par défaut par responsabilités : présidence, vice-présidences, autres fonctions, chefs de délégation et coordinateurs ; ordre alphabétique par nom de famille au sein de chaque catégorie. Option de tri alphabétique global conservée.
 
-Annuaire de tous les députés : https://aerlin23.github.io/Patriots_10th-term/parlement/
+Annuaire de tous les députés : https://aerlin23.github.io/Parlement-europeen_10th-term/
+
+## Organisation des dépôts
+
+Ce dépôt contient uniquement les données et le site de Patriots. Chaque autre groupe et l’annuaire complet du Parlement sont maintenus dans leur dépôt dédié. Les anciens sous-dossiers `ecr`, `esn`, `greens`, `left`, `ni`, `parlement`, `ppe`, `renew` et `sd` contiennent uniquement une page de redirection pour conserver les liens déjà partagés ; ne pas y remettre de données ou de copie du site.

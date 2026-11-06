@@ -4,10 +4,17 @@
     "name": "Mieke ANDRIESE",
     "country": "Netherlands",
     "party": "Partij voor de Vrijheid",
-    "role": "",
+    "role": "Vice-présidente",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "ANDRIESE",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "197691",
@@ -17,17 +24,31 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "ANDROUËT",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "124973",
     "name": "Gerolf ANNEMANS",
     "country": "Belgium",
     "party": "Vlaams Belang",
-    "role": "",
+    "role": "Trésorier",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "ANNEMANS",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "131580",
@@ -37,7 +58,14 @@
     "role": "Président",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "BARDELLA",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "261797",
@@ -47,17 +75,31 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "BAY",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "277178",
     "name": "Majbritt BIRKHOLM",
     "country": "Denmark",
     "party": "Dansk Folkeparti",
-    "role": "",
+    "role": "Membre du bureau",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "BIRKHOLM",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256998",
@@ -67,7 +109,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "BLOM",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256881",
@@ -77,7 +126,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "BONTE",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "101039",
@@ -87,7 +143,16 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "BORCHIA",
+    "headOfDelegation": true,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06",
+    "headSource": "https://www.patriotsforeurope.eu/",
+    "headCheckedAt": "2026-11-06"
   },
   {
     "id": "257024",
@@ -97,7 +162,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "BORRÁS PABÓN",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256878",
@@ -107,7 +179,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "BRASIER-CLAIN",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "257064",
@@ -117,7 +196,16 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "BRYŁKA",
+    "headOfDelegation": true,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06",
+    "headSource": "https://www.patriotsforeurope.eu/",
+    "headCheckedAt": "2026-11-06"
   },
   {
     "id": "257072",
@@ -127,7 +215,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "BUCZEK",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "197829",
@@ -137,7 +232,16 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "BUXADÉ VILLALBA",
+    "headOfDelegation": true,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06",
+    "headSource": "https://www.patriotsforeurope.eu/",
+    "headCheckedAt": "2026-11-06"
   },
   {
     "id": "220840",
@@ -147,7 +251,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "BŽOCH",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "197786",
@@ -157,7 +268,14 @@
     "role": "Vice-présidente",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "CECCARDI",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "257131",
@@ -167,7 +285,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "CISINT",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "236050",
@@ -177,7 +302,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "DAUCHY",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256886",
@@ -187,7 +319,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "DELOGE",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "96826",
@@ -197,7 +336,16 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "DEUTSCH",
+    "headOfDelegation": true,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06",
+    "headSource": "https://www.patriotsforeurope.eu/",
+    "headCheckedAt": "2026-11-06"
   },
   {
     "id": "256981",
@@ -207,7 +355,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "DIEPEVEEN",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256834",
@@ -217,7 +372,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "DIERINGER",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256874",
@@ -227,7 +389,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "DISDIER",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "260724",
@@ -237,7 +406,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "DÖMÖTÖR",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256853",
@@ -247,7 +423,14 @@
     "role": "Vice-présidente",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "DOSTALOVA",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "192254",
@@ -257,7 +440,16 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "EHLERS",
+    "headOfDelegation": true,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06",
+    "headSource": "https://www.patriotsforeurope.eu/",
+    "headCheckedAt": "2026-11-06"
   },
   {
     "id": "256857",
@@ -267,7 +459,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "FERENC",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256876",
@@ -277,7 +476,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "FRIGOUT",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256896",
@@ -287,7 +493,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "FURET",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "28150",
@@ -297,7 +510,14 @@
     "role": "Première vice-présidente",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "GÁL",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "197628",
@@ -307,7 +527,16 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "GARRAUD",
+    "headOfDelegation": true,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06",
+    "headSource": "https://www.patriotsforeurope.eu/",
+    "headCheckedAt": "2026-11-06"
   },
   {
     "id": "125052",
@@ -317,7 +546,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "GIRAUTA VIDAL",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "94649",
@@ -327,7 +563,21 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "GRISET",
+    "headOfDelegation": false,
+    "coordinators": [
+      {
+        "committee": "CULT",
+        "source": "https://www.europarl.europa.eu/cmsdata/302801/CULT%20Coordinators_10th%20term_updated%20February%202026.pdf",
+        "sourceDate": "2026-02-12",
+        "checkedAt": "2026-11-06"
+      }
+    ],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "96830",
@@ -337,7 +587,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "GYŐRI",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "23816",
@@ -347,7 +604,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "GYÜRK",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "198176",
@@ -357,7 +621,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "HAIDER",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256842",
@@ -367,7 +638,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "HAUSER",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "124715",
@@ -377,7 +655,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "HÖLVÉNYI",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "189065",
@@ -387,7 +672,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "JAMET",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "197627",
@@ -397,7 +689,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "JORON",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "197528",
@@ -407,7 +706,16 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "KNOTEK",
+    "headOfDelegation": true,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06",
+    "headSource": "https://www.patriotsforeurope.eu/",
+    "headCheckedAt": "2026-11-06"
   },
   {
     "id": "270261",
@@ -417,7 +725,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "KNOT",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "23699",
@@ -427,7 +742,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "KONEČNÁ",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256909",
@@ -437,7 +759,16 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "KRIŠTOPANS",
+    "headOfDelegation": true,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06",
+    "headSource": "https://www.patriotsforeurope.eu/",
+    "headCheckedAt": "2026-11-06"
   },
   {
     "id": "256996",
@@ -447,7 +778,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "KRUIS",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "261038",
@@ -457,7 +795,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "KUBÍN",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256860",
@@ -467,7 +812,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "LÁSZLÓ",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256954",
@@ -477,7 +829,16 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "LATINOPOULOU",
+    "headOfDelegation": true,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06",
+    "headSource": "https://www.patriotsforeurope.eu/",
+    "headCheckedAt": "2026-11-06"
   },
   {
     "id": "256872",
@@ -487,7 +848,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "LEGGERI",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256895",
@@ -497,7 +865,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "LEONARDELLI",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "197623",
@@ -507,7 +882,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "MARIANI",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "257029",
@@ -517,7 +899,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "MARTÍN FRÍAS",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "38511",
@@ -527,7 +916,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "MAYER",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "257054",
@@ -537,7 +933,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "MOREIRA DE SÁ",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256843",
@@ -547,7 +950,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "NAGYOVÁ",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256883",
@@ -557,7 +967,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "NIKOLIC",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "197687",
@@ -567,7 +984,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "OLIVIER",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "280663",
@@ -577,7 +1001,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "ORBÁN",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "36392",
@@ -587,7 +1018,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "PATRICIELLO",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "126699",
@@ -597,7 +1035,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "PENNELLE",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256877",
@@ -607,7 +1052,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "PIERA",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256893",
@@ -617,7 +1069,21 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "PIMPIE",
+    "headOfDelegation": false,
+    "coordinators": [
+      {
+        "committee": "FISC",
+        "source": "https://www.europarl.europa.eu/cmsdata/302720/Summary%20of%20Coordinators%27%20recommendations%20-%2027%20January%202027.pdf",
+        "sourceDate": "2026-01-27",
+        "checkedAt": "2026-11-06"
+      }
+    ],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "204414",
@@ -627,7 +1093,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "DE LA PISA CARRIÓN",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256844",
@@ -637,7 +1110,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "POKORNÁ JERMANOVÁ",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256882",
@@ -647,7 +1127,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "RECHAGNEUX",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "197690",
@@ -657,7 +1144,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "ROUGÉ",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "88552",
@@ -667,7 +1161,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "SANCHEZ",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "197578",
@@ -677,7 +1178,21 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "SARDONE",
+    "headOfDelegation": false,
+    "coordinators": [
+      {
+        "committee": "ENVI",
+        "source": "https://www.europarl.europa.eu/cmsdata/302100/2026%2001%2013%20coordinators%20results.pdf",
+        "sourceDate": "2026-01-13",
+        "checkedAt": "2026-11-06"
+      }
+    ],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "213330",
@@ -687,7 +1202,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "SCHALLER-BAROSS",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "197825",
@@ -697,7 +1219,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "STANCANELLI",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "272024",
@@ -707,7 +1236,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "STANĚK",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "220897",
@@ -717,7 +1253,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "STEGER",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "257050",
@@ -727,7 +1270,23 @@
     "role": "Vice-président",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "TÂNGER CORRÊA",
+    "headOfDelegation": true,
+    "coordinators": [
+      {
+        "committee": "EUDS",
+        "source": "https://www.europarl.europa.eu/doceo/document/EUDS-PV-2026-03-17-1_EN.pdf",
+        "sourceDate": "2026-02-26",
+        "checkedAt": "2026-11-06"
+      }
+    ],
+    "isBureau": true,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06",
+    "headSource": "https://www.patriotsforeurope.eu/",
+    "headCheckedAt": "2026-11-06"
   },
   {
     "id": "197831",
@@ -737,7 +1296,14 @@
     "role": "Vice-président",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "TERTSCH",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "200345",
@@ -747,7 +1313,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "THIONNET",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256888",
@@ -757,7 +1330,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "TOLASSY",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "197580",
@@ -767,7 +1347,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "TOVAGLIERI",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256875",
@@ -777,7 +1364,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "VALET",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "185771",
@@ -787,7 +1381,16 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "VANDENDRIESSCHE",
+    "headOfDelegation": true,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06",
+    "headSource": "https://www.patriotsforeurope.eu/",
+    "headCheckedAt": "2026-11-06"
   },
   {
     "id": "5736",
@@ -797,7 +1400,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "VARAUT",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "256859",
@@ -807,7 +1417,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "VICSEK",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "125001",
@@ -817,7 +1434,16 @@
     "role": "Vice-président",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "VILIMSKY",
+    "headOfDelegation": true,
+    "coordinators": [],
+    "isBureau": true,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06",
+    "headSource": "https://www.patriotsforeurope.eu/",
+    "headCheckedAt": "2026-11-06"
   },
   {
     "id": "261796",
@@ -827,7 +1453,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "WERBROUCK",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "257069",
@@ -837,7 +1470,14 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "ZAJĄCZKOWSKA-HERNIK",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   },
   {
     "id": "103246",
@@ -847,6 +1487,13 @@
     "role": "",
     "strasbourg": "",
     "brussels": "",
-    "coordinator": ""
+    "coordinator": "",
+    "membershipCheckedAt": "2026-11-06",
+    "lastName": "ZIJLSTRA",
+    "headOfDelegation": false,
+    "coordinators": [],
+    "isBureau": false,
+    "roleSource": "https://www.patriotsforeurope.eu/",
+    "roleCheckedAt": "2026-11-06"
   }
 ]
